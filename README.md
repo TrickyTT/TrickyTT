@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify](https://novatorem-nu-red.vercel.app/api/spotify)](https://open.spotify.com/user/38d5b4e6a63c45cbbe183e8e1f7f47f4)
-[![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/7nlznwn7jdekvjkzzkp9m4nsy)
+[![Spotify](https://novatorem-nu-red.vercel.app/api/spotify)]
+[![Spotify](https://spotifnow.vercel.app/api/spotify)]
